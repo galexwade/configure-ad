@@ -129,3 +129,14 @@ Now to verify that normal Users can Remote Desktop Protocol into the Client Mach
 Once inside the Client Machine using the random User you selected, open up the command line and type "whoami". You should then see the username of the User you created. We were successfully able to sign into the Client Machine using the credentials of a User we created from a Powershell Script in the Domain.
 </p>
 <br />
+
+<p>
+If you want more practice with:
+</p>
+
+- <a href="https://github.com/galexwade/azure-dns">DNS</a>
+- <a ="https://github.com/galexwade/network-file-shares">Network File Shares and Permissions</a>
+
+<p>
+<strong>Keep your Domain Controller and Client Machine up and running.</strong>
+</p>
