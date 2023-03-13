@@ -135,7 +135,7 @@ If you want more practice with:
 </p>
 
 - <a href="https://github.com/galexwade/azure-dns">DNS</a>
-- <a ="https://github.com/galexwade/network-file-shares">Network File Shares and Permissions</a>
+- <a href="https://github.com/galexwade/network-file-shares">Network File Shares and Permissions</a>
 
 <p>
 <strong>Keep your Domain Controller and Client Machine up and running.</strong>
